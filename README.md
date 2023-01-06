@@ -64,3 +64,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## How To Install This Source To Your Development Env.
+- Clone this git source / Download as Zip file
+- Open the code with VS Code (write commande [code .])
+- run command palette (Artisan : Key generation)
+- change the key file as you need
+
